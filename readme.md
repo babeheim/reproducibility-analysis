@@ -43,7 +43,7 @@ There are two data frames in this analysis. The `pubs_anon.csv` file contains da
 
 ```
 
-The second data frame is `results_anon.csv`, where each row corresponds to a single result (n = 110 results), from a publication in our subsample of Phase II reanalyses, with the following data columns:
+The second data frame is `results_anon.csv`, where each row corresponds to a single result (n = 111 results), from a publication in our subsample of Phase II reanalyses, with the following data columns:
 
 ```
 
